@@ -12,7 +12,7 @@
         <br>
         <p>
             <strong>
-                Java Software Developer, Problem Solver, Freelancer, and Open-Source Enthusiast.<br><br>
+                Java Developer, Problem Solver, Freelancer, and Open-Source Enthusiast.<br><br>
                 I have experience with Java, Spring Boot, Hibernate, Asp.NET MVC, Asp.NET Web API, Microsoft SQL Server, MySQL, Postgresql and I have experience working with React, React Native. Good in Algorithms, Data Structures, Database Systems, Object-Oriented Programming, Design Patterns, and Problem Solving skills.<br><br>
                  Detailed-oriented, responsible, and committed programmer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.
             </strong>
